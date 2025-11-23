@@ -29,20 +29,24 @@ const fontOptions = [
     value: "text-sm",
     symbol: "A",
     symbolClass: "text-sm",
+    variable: "--font-size-small",
   },
   {
     name: "Medium",
     value: "text-base",
     symbol: "A",
     symbolClass: "text-base",
+    variable: "--font-size-medium",
   },
   {
     name: "Large",
     value: "text-lg",
     symbol: "A",
     symbolClass: "text-xl",
+    variable: "--font-size-large",
   },
 ]
+
 
 
 // Sample texts for typing tests by difficulty
